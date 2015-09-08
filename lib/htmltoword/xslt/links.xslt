@@ -23,7 +23,8 @@
       <w:r>
         <w:rPr>
           <w:rStyle w:val="Hyperlink"/>
-          <w:i/>
+          <w:color w:val="000080"/>
+          <w:u w:val="single"/>
         </w:rPr>
         <w:t xml:space="preserve">
           <xsl:value-of select="."/>
